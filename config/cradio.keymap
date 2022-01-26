@@ -67,7 +67,7 @@
 		&mt LGui Q &kp W &kp E &kp R &kp T 						&kp Y &kp U  &kp I    &kp O   &kp P 
 		&kp A &kp S &kp D &kp F &kp G 			        	        &kp H &kp J &kp K &kp L &kp SQT
 		&mt LCtl Z &kp X &kp C &kp V &kp B				        &kp N &kp M  &kp COMMA &kp FSLH
-          				&LT3 TAB &LT2 BSPC  				&mt RSft SPACE &LT1 RET
+          				&lt 3 TAB &lt 2 BSPC  				&mt RSft SPACE &lt 1 RET
 		>;
 		};
 
