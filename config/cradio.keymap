@@ -59,7 +59,7 @@
 #define DEFAULT 0
 #define LEFT   1
 #define TRI   2 
-#define RIGHT   1
+#define RIGHT   3
 
     };
 
