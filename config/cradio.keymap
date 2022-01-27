@@ -85,7 +85,7 @@
 		&kp ESC  &kp FSLH &kp STAR  &kp MINUS  &kp PLUS    			&kp LNLCK  &kp NUM_7 &kp NUM_8 &kp NUM_9 &kp DEL 
 		&kp TAB  &kp QMARK  &kp UP  &kp COLN  &kp SCLN 			&kp DOT &kp NUM_4  &kp NUM_5  &kp NUM_6   &kp EQL
 		&kp LSFT  &kp LEFT &kp DOWN &kp RIGHT   &kp BSLH    			&kp NUM_0 &kp NUM_1 &kp NUM_2 &kp NUM_3  &kp RET
-					  &mo 3 &kp LCTL  				&kp SPC  &mo 2 
+					  &trans &trans  				&trans  &trans 
 		>;
 		};		
 
