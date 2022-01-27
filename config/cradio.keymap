@@ -76,7 +76,7 @@
 		&kp BANG  &kp ATSN &kp HASH  &kp DLLR  &kp PRCT    			&kp CRRT  &kp AMPS &kp KMLT &kp LPRN &kp RPRN  
 		&kp K_PP    &kp K_PREV    &kp K_VOL_DN      &kp K_VOL_UP     &kp K_NEXT 		&kp PG_UP &kp HOME  &kp UP &kp END  &kp SEMI 
 		&kp ESC    &kp LALT 	&kp DEL &kp LNLCK  &kp CAPS 	&kp PG_DOWN &kp LEFT &kp DOWN &kp RIGHT  &kp TAB 
-					    &TRANS  &TRANS  					&TRANS &TRANS 
+					    &trans  &trans  					&trans &trans 
 		>;
 		};
 
@@ -85,7 +85,7 @@
 		&kp ESC  &kp FSLH &kp STAR  &kp MINUS  &kp PLUS    			&kp LNLCK  &kp NUM_7 &kp NUM_8 &kp NUM_9 &kp DEL 
 		&kp TAB  &kp QMARK  &kp UP  &kp COLN  &kp SCLN 			&kp DOT &kp NUM_4  &kp NUM_5  &kp NUM_6   &kp EQL
 		&kp LSFT  &kp LEFT &kp DOWN &kp RIGHT   &kp BSLH    			&kp NUM_0 &kp NUM_1 &kp NUM_2 &kp NUM_3  &kp RET
-					  &TRANS &TRANS  				&TRANS  &TRANS 
+					  &trans &trans  				&trans  &trans 
 		>;
 		};		
 
