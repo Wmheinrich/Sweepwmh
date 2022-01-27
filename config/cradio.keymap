@@ -76,7 +76,7 @@
 		&kp BANG  &kp ATSN &kp HASH  &kp DLLR  &kp PRCT    			&kp CRRT  &kp AMPS &kp KMLT &kp LPRN &kp RPRN  
 		&kp K_PP    &kp K_PREV    &kp K_VOL_DN      &kp K_VOL_UP     &kp K_NEXT 		&kp PG_UP &kp HOME  &kp UP &kp END  &kp SEMI 
 		&kp LCTRL    &kp LALT 	&kp DEL &kp LNLCK  &kp CAPS 	&kp PG_DN &kp LEFT &kp DOWN &kp RIGHT  &kp DEL 
-					    &mo 1  &kp LGUI  					&kp RGUI &mo 2 
+					    &trans  &trans  					&trans &trans 
 		>;
 		};
 
