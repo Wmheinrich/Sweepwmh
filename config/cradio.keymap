@@ -74,7 +74,7 @@
        		left_layer {
 		bindings = <
 		&kp BANG  &kp ATSN &kp HASH  &kp DLLR  &kp PRCT    			&kp CRRT  &kp AMPS &kp KMLT &kp LPRN &kp RPRN  
-		&kp K_PP    &kp K_PREV    &kp K_VOL_DN      &kp K_VOL_UP     &kp K_NEXT 		&kp PG_UP &kp HOME  &kp UP &kp END  &kp SEMI 
+		&kp C_PP    &kp C_PREV    &kp C_VOL_DN      &kp C_VOL_UP     &kp C_NEXT 		&kp PG_UP &kp HOME  &kp UP &kp END  &kp SEMI 
 		&kp LCTRL    &kp LALT 	&kp DEL &kp LNLCK  &kp CAPS 	&kp PG_DN &kp LEFT &kp DOWN &kp RIGHT  &kp DEL 
 					    &trans  &trans  					&trans &trans 
 		>;
